@@ -24,7 +24,7 @@ brightness command-line tool for macOS brightness control
 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/handtracker.git
+git clone  https://github.com/bryankboateng/videoHandtracker.git
 cd handtracker
 
 Install required Python packages:
